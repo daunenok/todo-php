@@ -1,0 +1,22 @@
+h1 {
+	text-align: center;
+}
+ul {
+	max-width: 500px;
+	margin: 0 auto;
+	padding: 20px;
+	box-sizing: border-box;
+	border: 1px dashed #ccc;
+}
+.done {
+	text-decoration: line-through;
+}
+form {
+	max-width: 400px;
+	margin: 40px auto;
+}
+a.button {
+	display: block;
+	max-width: 200px;
+	margin: 40px auto;
+}
